@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213139521401",
+    "project_id": "musicvault-54b37",
+    "storage_bucket": "musicvault-54b37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213139521401:android:e90ceac8e56f223ca039a8",
+        "android_client_info": {
+          "package_name": "com.example.music_vault_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB41Z4Bz5_onFcnBphAHYVEw5bbQ5Wrd4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
